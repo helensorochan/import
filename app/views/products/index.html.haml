@@ -1,0 +1,15 @@
+= render 'import'
+
+%table
+  %thead
+    %tr
+      %th= 'SKU'
+      %th= 'title'
+      %th= 'field1'
+      %th= 'field2'
+      %th= 'field3'
+      %th= 'field4'
+      %th= 'count'
+      %th= 'price'
+  %tbody
+    = render partial: 'product', collection: @products
