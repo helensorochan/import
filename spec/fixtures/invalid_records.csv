@@ -1,6 +1,6 @@
 sku,title,field1,field2,field3,field4,count,price
 p1,title1,f11,f12,f13,f14,1,34.67
 p2,title2,f21,f22,,,4,-67
-p3,,f31,f32,f33,f34,0,
+,,f31,f32,f33,f34,0,
 p4,title1,f11,f12,f13,f14,1,34.67
 p4,title1,f11,f12,f13,f14,1,34.67
